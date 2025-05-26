@@ -10,10 +10,13 @@ console.log(name);
 // Stampa tutti i valori nella console.
 const number = 13
 const text="avevo praticamente riscritto la const alphabet senza notare che c'era già sopra"
-let bool='False'
+let bool = false
 console.log(number)
 console.log(text)
 console.log(bool)
+
+
+
 
 // 3. Sostituisci null nelle righe sottostanti utilizzando operazioni con le stringhe
 // e le variabili sopra in modo da stampare correttamente 
